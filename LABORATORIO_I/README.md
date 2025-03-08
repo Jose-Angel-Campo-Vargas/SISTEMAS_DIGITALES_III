@@ -7,7 +7,7 @@ Julieth Alejandra Sandoval Estupiñan
 ## DOCUMENTACIÓN
 Tema: Listas y Diccionarios
 
-En el archivo [LAB_I.py](/LAB_I.py) se encuentra el desarrollo de  un programa que permite gestionar el directorio telefónico de un grupo de personas, empleando los conceptos de listas y diccionarios.
+En el archivo [LAB_I](/LABORATORIO_I/LAB_I.py) se encuentra el desarrollo de  un programa que permite gestionar el directorio telefónico de un grupo de personas, empleando los conceptos de listas y diccionarios.
 
 Nombre y Apellido → String
 
