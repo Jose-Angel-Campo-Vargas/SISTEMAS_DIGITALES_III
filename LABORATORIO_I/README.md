@@ -1,8 +1,8 @@
 # LABORATORIO I
 ## Integrantes
-[Jose Angel Campo Vargas](https://github.com/Jose-Angel-Campo-Vargas)
+[Jose Angel Campo Vargas - 93719](https://github.com/Jose-Angel-Campo-Vargas)
 
-Julieth Alejandra Sandoval Estupiñan
+[Julieth Alejandra Sandoval Estupiñan - 93761](https://github.com/Julieth-Sandoval)
 
 ## DOCUMENTACIÓN
 Tema: Listas y Diccionarios
