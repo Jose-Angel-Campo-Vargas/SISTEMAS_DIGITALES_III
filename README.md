@@ -1,3 +1,3 @@
 ## ABOUT ME
 
-[Laboratorio 1](/LABORATORIO_I/)
+[LABORATORIO I](/LABORATORIO_I/)

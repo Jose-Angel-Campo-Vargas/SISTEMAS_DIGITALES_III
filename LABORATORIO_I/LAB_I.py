@@ -11,7 +11,7 @@
 
 # Lista para almacenar los textos que se mostrarán en pantalla
 textos = [
-    "Bienvenido al directorio telefónico",
+    "\n Bienvenido al directorio telefónico",
     "Digite el Nombre y Apellido de la persona: ",
     "Digite el teléfono celular de la persona: ",
     "Digite el cumpleaños de la persona (formato DD/MM/AAAA): ",
